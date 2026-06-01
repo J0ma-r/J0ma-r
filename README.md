@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @J0ma-r
-- 👀 I’m interested in becoming a full stack python dev, but starting small...
-- 🌱 I’m currently learning Python
+- 👀 I’m a Quality Engineer
 
 - 📫 How to reach me:
   -jomarvn@gmail.com
